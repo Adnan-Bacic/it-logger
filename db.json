@@ -1,0 +1,23 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "log2",
+      "attention": false,
+      "tech": "tech2 l2",
+      "date": "2020-06-14T13:40:55.612Z"
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "tech1",
+      "lastName": "l1",
+      "id": 1
+    },
+    {
+      "firstName": "tech2",
+      "lastName": "l2",
+      "id": 2
+    }
+  ]
+}
